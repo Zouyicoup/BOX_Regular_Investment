@@ -1,2 +1,2 @@
-# Regular_investment
+# Regular investment of BOX
 Visualize your regular investments
